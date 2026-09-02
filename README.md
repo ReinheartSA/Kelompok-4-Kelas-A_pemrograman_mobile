@@ -1,8 +1,8 @@
 #Ini merupakan Project Mobile bersama via Github
 #Tim beranggotakan:
- @Reinheart SIlalong Alinan (D121241064)
- @Andi Habibullah Masnawy (D1212410)
- @Chelsea Elysia Chandean (D121241073)
+ @Reinheart SIlalong Alinan/ReinheartSA (D121241064)
+ @Andi Habibullah Masnawy/Sevg1l1im (D1212410)
+ @Chelsea Elysia Chandean/chell-07 (D121241073)
 
 
 # 🚀 Panduan Kolaborasi Git & GitHub
